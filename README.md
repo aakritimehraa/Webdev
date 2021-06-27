@@ -2,10 +2,10 @@ Theme - House application and furniture
 made with react
 
 It is a front end of a furniture company which sells furniture and and provides custom furniture service
-It is a responsive website
+.It is a responsive website
 
 
-It is hosted on firebase
+It is hosted on firebase.
 
 The only problem i was faced was during hosting.
 After hosting the prject the website was not visible. It was just a blank screen.
