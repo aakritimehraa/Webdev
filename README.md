@@ -8,10 +8,12 @@ It is a front end of a furniture company which sells furniture and and provides 
 It is hosted on firebase.
 
 The only problem i was faced was during hosting.
-After hosting the pr0ject the website was not visible. It was just a blank screen.
+After hosting the project the website was not visible. It was just a blank screen.
 so I solved it by taking help from firebase documentation 
 It took me around 20 mins to solve this issue
 
+
+website url = https://acefurniture-6d244.web.app/
 
 
 
