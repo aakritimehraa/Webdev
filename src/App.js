@@ -29,7 +29,6 @@ function App() {
            <Footer />
            </Route>
            <Route exact path='/login'>
-       
              <Login />
            </Route>
     </div>
